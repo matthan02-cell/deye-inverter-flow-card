@@ -5,7 +5,7 @@
   "main": "deye-inverter-flow-card.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matthan02-cell/deye-inverter-flow-card.git"
+    "url": "https://github.com/matthan02-cell/matt-flow.git"
   },
   "keywords": [
     "home-assistant",
@@ -20,7 +20,7 @@
   "author": "matthan02",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matthan02-cell/deye-inverter-flow-card/issues"
+    "url": "https://github.com/matthan02-cell/matt-flow/issues"
   },
-  "homepage": "https://github.com/matthan02-cell/deye-inverter-flow-card#readme"
+  "homepage": "https://github.com/matthan02-cell/matt-flow#readme"
 }

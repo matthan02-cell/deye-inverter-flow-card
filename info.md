@@ -14,7 +14,7 @@ A professional Home Assistant Lovelace custom card for visualizing real-time ene
 
 ## Installation
 
-1. Add to HACS: `https://github.com/matthan02-cell/deye-inverter-flow-card`
+1. Add to HACS: `https://github.com/matthan02-cell/matt-flow`
 2. Search for "Deye Inverter Flow Card"
 3. Download and install
 4. Add to your dashboard: `type: custom:deye-inverter-flow-card`
